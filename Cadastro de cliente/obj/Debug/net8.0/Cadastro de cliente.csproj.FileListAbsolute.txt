@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\bin\Debug\net8.0\Cadastro de cliente.exe
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\bin\Debug\net8.0\Cadastro de cliente.deps.json
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\bin\Debug\net8.0\Cadastro de cliente.runtimeconfig.json
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\bin\Debug\net8.0\Cadastro de cliente.dll
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\bin\Debug\net8.0\Cadastro de cliente.pdb
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\Cadastro de cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\Cadastro de cliente.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\Cadastro de cliente.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\Cadastro de cliente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\Cadastro de cliente.dll
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\refint\Cadastro de cliente.dll
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\Cadastro de cliente.pdb
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\Cadastro de cliente.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Portifolio\Cadastro de cliente\obj\Debug\net8.0\ref\Cadastro de cliente.dll
